@@ -88,7 +88,7 @@ Deployment Link: *(Add Streamlit link here)*
 
 ## GitHub Repository
 
-Repository Link: *(Add GitHub repo link here)*
+Repository Link: https://github.com/sthippa/bank-churn-ml-assignment
 
 ---
 
